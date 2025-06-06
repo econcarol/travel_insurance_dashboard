@@ -17,7 +17,7 @@ This Power BI dashboard helps travelers compare health risks, medical costs, and
 - `data/dim_coverage.csv` – Coverage level dimension table
 - `data/facts.csv` – Fact table with healthcare and insurance data
 
-## 📊 Sneakpeak  
+## 📊 Sneak Peek  
 ### 🧭 Landing Page   
 <img src="img/snapshot landing page.png" width="80%">
 
