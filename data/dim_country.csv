@@ -1,0 +1,13 @@
+id,country,iso_code,region_id
+1,China,CHN,1
+2,Japan,JPN,1
+3,South Korea,KOR,1
+4,Taiwan,TWN,1
+5,Cambodia,KHM,2
+6,Laos,LAO,2
+7,Thailand,THA,2
+8,Vietnam,VNM,2
+9,Indonesia,IDN,2
+10,Malaysia,MYS,2
+11,Philippines,PHL,2
+12,Singapore,SGP,2
