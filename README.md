@@ -1,6 +1,6 @@
 # 🌍 Travel Insurance Dashboard
 
-This Power BI dashboard helps travelers compare health risks, medical costs, and insurance cost estimates across countries using synthetic data.
+This dashboard helps travelers compare health risks, medical costs, and insurance cost estimates across countries using synthetic data. Originally built in Power BI, it was later recreated in Tableau.
 
 ## ✨ Key Features  
 - Side-by-side comparison of two countries
@@ -10,6 +10,7 @@ This Power BI dashboard helps travelers compare health risks, medical costs, and
 
 ## 📁 Main Files
 - `travel_insurance_dashboard.pbix` – Power BI report file
+- `travel_insurance_dashboard_tableau.twb` – Tableau version of the same dashboard
 - `data/generate_synthetic_data.py` – Python script for generating synthetic data
 - `data/dim_region.csv` – Region dimension table 
 - `data/dim_country.csv` – Country dimension table
@@ -18,6 +19,8 @@ This Power BI dashboard helps travelers compare health risks, medical costs, and
 - `data/facts.csv` – Fact table with healthcare and insurance data
 
 ## 📊 Sneak Peek  
+Explore the interactive version here 👉 [View on Tableau](https://public.tableau.com/views/TravelInsuranceDashboard_17499991074090/Story?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ### 🧭 Landing Page   
 <img src="img/snapshot landing page.png" width="80%">
 
